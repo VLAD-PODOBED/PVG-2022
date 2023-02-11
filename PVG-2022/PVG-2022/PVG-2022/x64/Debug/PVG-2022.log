@@ -1,0 +1,34 @@
+﻿  CodeGenerarion.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\CodeGenerarion.cpp(24,16): warning C4101: func: неиспользованная локальная переменная
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\CodeGenerarion.cpp(504,14): warning C4129: e: неизвестная escape-последовательность
+  Error.cpp
+  FST.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(118,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(520,27): warning C4305: аргумент: усечение из "int" в "char"
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(520,20): warning C4309: аргумент: усечение константного значения
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(522,20): warning C4305: аргумент: усечение из "int" в "char"
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(522,13): warning C4309: аргумент: усечение константного значения
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(1271,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(1278,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\FST.cpp(1598,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  GRB.cpp
+  In.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\In.cpp(122,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  IT.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+  NotaciaPolska.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\NotaciaPolska.cpp(71,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Out.cpp
+  Parm.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\Parm.cpp(19,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\Parm.cpp(19,47): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\Parm.cpp(20,11): warning C4101: wst: неиспользованная локальная переменная
+  PVG-2022.cpp
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\PVG-2022.cpp(32,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\PVG-2022\PVG-2022\PVG-2022\PVG-2022\PVG-2022.cpp(32,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Semantic.cpp
+  Создание кода...
+  PVG-2022.vcxproj -> D:\PVG-2022\PVG-2022\PVG-2022\x64\Debug\PVG-2022.exe

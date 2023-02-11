@@ -1,0 +1,63 @@
+let uint function FindFactorial(uint a){
+let uint answer;
+answer = 1;
+while(a>1)
+[
+answer = answer*a;
+a = a - 1;
+];
+return answer;
+};
+main
+{
+export uint function GetHours(uint a);
+export uint function GetMonth(uint a);
+export uint function GetMinutes(uint a);
+export uint function GetDate(uint a);
+let uint number;
+number = FindFactorial(5);
+output number;
+let string bl;
+bl = "AlexeiKruglik";
+output bl;
+let char str1;
+output "Char type:";
+str1 = 'q';
+output str1;
+let uint demo;
+demo = 32;
+output "Number to be circilar shifted:";
+output demo;
+let uint demo1;
+demo1 = demo/2;
+output "32<<2:";
+output demo1;
+let uint demo2;
+demo2 = demo\2;
+output "32>>2:";
+output demo2;
+let uint number1;
+let uint number2;
+let uint number3;
+let uint number4;
+output "Hours:";
+number1 = GetHours(1);
+output number1;
+output "Minutes:";
+number2 = GetMinutes(1);
+output number2;
+output "Date:";
+number3 = GetDate(1);
+output number3;
+output "Month:";
+number4 = GetMonth(1);
+output number4;
+let uint a;
+let uint b;
+let uint c;
+a = 3;
+b = 4;
+c = a - b;
+output c;
+return 0;
+}
